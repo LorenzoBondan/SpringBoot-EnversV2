@@ -1,0 +1,1 @@
+INSERT INTO pais (cdpai, dspai, nacionalidade_f, nacionalidade_m, codext, created_by, creation_date, last_updated_by, last_updated_date, deleted) VALUES (1, 'Brasil', 'Brasileira', 'Brasileiro', 1, 'maria@gmail.com', TIMESTAMP WITHOUT TIME ZONE '2023-01-01T14:00:00Z', 'maria@gmail.com', TIMESTAMP WITHOUT TIME ZONE '2023-01-01T14:00:00Z', false);
